@@ -1,6 +1,6 @@
 Calculator Chrome Extension made with React JS
 
-How to run to chrome :
+How to run :
 
 1. clone this folder
 2. cd calculator-chrome-extension
