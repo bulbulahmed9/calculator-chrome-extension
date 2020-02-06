@@ -1,0 +1,23 @@
+.box{
+  background: #2d3436;
+  width: 300px;
+  text-align: center;
+  color: #ffffff;
+  margin: 20px auto;
+  padding: 30px 0;
+}
+.box .result{
+  height: 50px;
+  max-width: 199px;
+  border: 1px solid #ffffff;
+  margin: auto;
+  text-align: right;
+  overflow: hidden;
+}
+.box-content{
+
+}
+.box-content button{
+  height: 50px;
+  width: 50px;
+}
